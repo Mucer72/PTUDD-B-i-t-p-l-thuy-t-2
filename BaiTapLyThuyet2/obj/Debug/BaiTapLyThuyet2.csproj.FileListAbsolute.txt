@@ -1,0 +1,11 @@
+D:\windows form\BaiTapLyThuyet2\BaiTapLyThuyet2\bin\Debug\BaiTapLyThuyet2.exe.config
+D:\windows form\BaiTapLyThuyet2\BaiTapLyThuyet2\bin\Debug\BaiTapLyThuyet2.exe
+D:\windows form\BaiTapLyThuyet2\BaiTapLyThuyet2\bin\Debug\BaiTapLyThuyet2.pdb
+D:\windows form\BaiTapLyThuyet2\BaiTapLyThuyet2\obj\Debug\BaiTapLyThuyet2.csproj.AssemblyReference.cache
+D:\windows form\BaiTapLyThuyet2\BaiTapLyThuyet2\obj\Debug\BaiTapLyThuyet2.csproj.SuggestedBindingRedirects.cache
+D:\windows form\BaiTapLyThuyet2\BaiTapLyThuyet2\obj\Debug\BaiTapLyThuyet2.LinkLabel.resources
+D:\windows form\BaiTapLyThuyet2\BaiTapLyThuyet2\obj\Debug\BaiTapLyThuyet2.Properties.Resources.resources
+D:\windows form\BaiTapLyThuyet2\BaiTapLyThuyet2\obj\Debug\BaiTapLyThuyet2.csproj.GenerateResource.cache
+D:\windows form\BaiTapLyThuyet2\BaiTapLyThuyet2\obj\Debug\BaiTapLyThuyet2.csproj.CoreCompileInputs.cache
+D:\windows form\BaiTapLyThuyet2\BaiTapLyThuyet2\obj\Debug\BaiTapLyThuyet2.exe
+D:\windows form\BaiTapLyThuyet2\BaiTapLyThuyet2\obj\Debug\BaiTapLyThuyet2.pdb
